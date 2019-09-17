@@ -1,7 +1,7 @@
 package com.geekcap.vmturbo;
 
 public class Thing {
-  private int n = 110
+  private int n = 110;
 
   public int getN() {
     return n;
